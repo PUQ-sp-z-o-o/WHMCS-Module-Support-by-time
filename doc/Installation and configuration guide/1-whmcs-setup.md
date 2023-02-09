@@ -20,7 +20,7 @@ PHP 7.4
 wget http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/php74/PUQ_WHMCS-Support-by-time-latest.zip
 ```
 
-<p class="callout info">All versions are available via link: [http://download.puqcloud.com/WHMCS/servers/PUQ\_WHMCS-Support-by-time/](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/)</p>
+>All versions are available via link: [http://download.puqcloud.com/WHMCS/servers/PUQ\_WHMCS-Support-by-time/](http://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/)
 
 #### Unzip
 
