@@ -1,1 +1,15 @@
+# Home screen
 
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
+
+##### The customer's home page has the following information
+
+- Hours of support in the package
+- Hours used this month
+- Hours left this month
+- Price per hour of support outside the package
+- Hours outside package
+- How much to pay this month
+- All tickets and their service time
+
+[![image-1664278634816.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664278634816.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664278634816.png)
