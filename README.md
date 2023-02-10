@@ -1,5 +1,9 @@
 # WHMCS-Module-Support-by-time
-A module for WHMCS that provides the ability to create technical support products with payment by time spent.
+The module allows you to charge your customers with subscription fees for the support provided to them.
+The module allows you to prepare multiple packages with the number of hours and prices, and then settle the time spent on customer requests. Thanks to it You will know how long it takes to help each of your clients and you will be able to charge for the time you spend. You can do it in several ways - by setting up permanent subscriptions, where the module itself counts the amount of time still available to use or from the very beginning monitor the hours devoted to the execution of the application.
+The module also supports the settlement of overtime over a defined package with a separate hourly rate.
+
+Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.
 # Description
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
@@ -12,11 +16,11 @@ The module allows you to charge your customers with subscription fees for the su
 The module allows you to prepare multiple packages with the number of hours and prices, and then settle the time spent on customer requests. Thanks to it You will know how long it takes to help each of your clients and you will be able to charge for the time you spend. You can do it in several ways - by setting up permanent subscriptions, where the module itself counts the amount of time still available to use or from the very beginning monitor the hours devoted to the execution of the application.  
 The module also supports the settlement of overtime over a defined package with a separate hourly rate.
 
-<p class="callout info">Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.</p>
+>Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.
 
 The mechanism was designed to make the most of the built-in mechanisms available in WHMCS and uses the Billable Items function.
 
-<p class="callout info">The module does not require any additional services, servers apart from the basic installation of the WHMCS system</p>
+>The module does not require any additional services, servers apart from the basic installation of the WHMCS system
 
 #### Functions:
 
