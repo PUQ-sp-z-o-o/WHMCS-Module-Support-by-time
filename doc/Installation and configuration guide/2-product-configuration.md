@@ -1,8 +1,8 @@
 # 2. Product Configuration
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
 
-#### Add new product to WHMCS
+### Add new product to WHMCS
 
 ```
 System Settings->Products/Services->Create a New Product
@@ -14,7 +14,7 @@ In the **Module settings** section, select the **"PUQ Support by Time"** module
 
 - - - - - -
 
-##### License key
+### License key
 
 A pre-purchased license key for the "*PUQ Support by time*" module. For the module to work correctly, the key must be active
 
@@ -22,7 +22,7 @@ A pre-purchased license key for the "*PUQ Support by time*" module. For the modu
 
 - - - - - -
 
-##### Support package setup
+### Support package setup
 
 **Hours per month** - Indicates the number of hours that are included in the paid service package
 
@@ -36,7 +36,7 @@ A pre-purchased license key for the "*PUQ Support by time*" module. For the modu
 
 - - - - - -
 
-##### Price per hour
+### Price per hour
 
 In this section, you set the price per hour of support in all currencies that you have in the WHMCS system.
 
