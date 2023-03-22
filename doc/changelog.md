@@ -1,6 +1,6 @@
 # Changelog
 
-##### v1.1 Released 21-03-2023
+### v1.1 Released 21-03-2023
 
 1. Changes in design in the client area.
 2. Added translations
@@ -12,6 +12,6 @@
 
 - - - - - -
 
-##### v1.0 Released 01-10-2022
+### v1.0 Released 01-10-2022
 
 First version
