@@ -1,6 +1,6 @@
 # 1. WHMCS setup
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
 Module installation is simple and consist of few steps.
 
