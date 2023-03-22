@@ -1,10 +1,10 @@
 # Description
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=16&sid=70e2200ace4c96111dceb1ef1a4b6393)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Preface
 
-#### This module allows you to create a paid support service.
+### This module allows you to create a paid support service.
 
 The module allows you to charge your customers with subscription fees for the support provided to them.  
 The module allows you to prepare multiple packages with the number of hours and prices, and then settle the time spent on customer requests. Thanks to it You will know how long it takes to help each of your clients and you will be able to charge for the time you spend. You can do it in several ways - by setting up permanent subscriptions, where the module itself counts the amount of time still available to use or from the very beginning monitor the hours devoted to the execution of the application.  
@@ -16,7 +16,7 @@ The mechanism was designed to make the most of the built-in mechanisms available
 
 >The module does not require any additional services, servers apart from the basic installation of the WHMCS system
 
-#### Functions:
+### Functions:
 
 - Support package hour's configuration (these hours are included in the price of the product and do not roll over to the next month).
 - Possibility to configure the cost per hour of service after the hour packages are exhausted.
@@ -28,16 +28,16 @@ The mechanism was designed to make the most of the built-in mechanisms available
 - In the client area, the client has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
 - In the administered zone, the operator has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
 
-[![image-1664271905846.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271905846.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271905846.png)
+![image](https://user-images.githubusercontent.com/81689153/226853982-c3062f56-e894-4382-9806-d016b2c2b88a.png)
 
-[![image-1664271921383.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271921383.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271921383.png)
+![image](https://user-images.githubusercontent.com/81689153/226854024-2625f077-8d12-47ba-b4d9-6c62fab9fbf6.png)
 
-[![image-1664271928687.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271928687.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271928687.png)
+![image](https://user-images.githubusercontent.com/81689153/226854058-97bb5fc3-afce-4dee-8a85-4c2e2f476233.png)
 
-[![image-1664271934851.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271934851.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271934851.png)
+![image](https://user-images.githubusercontent.com/81689153/226854091-dd680476-1294-447e-9a8c-881bf64a5889.png)
 
-[![image-1664271943295.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271943295.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271943295.png)
+![image](https://user-images.githubusercontent.com/81689153/226854152-943ccc1d-fbc9-4970-83c0-579582552ee2.png)
 
-[![image-1664271987558.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271987558.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271987558.png)
+![image](https://user-images.githubusercontent.com/81689153/226854194-283fa61c-9ad6-4560-a6e1-38c01052e760.png)
 
-[![image-1664271992614.png](https://doc.puq.info/uploads/images/gallery/2022-09/scaled-1680-/image-1664271992614.png)](https://doc.puq.info/uploads/images/gallery/2022-09/image-1664271992614.png)
+![image](https://user-images.githubusercontent.com/81689153/226854223-276112c1-5e37-47d0-a9ab-315d139f9da0.png)
