@@ -2,13 +2,16 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
->Purpose:
+>**Purpose:**
+>
 >This module supports both One Time and Recurring billing cycles for services.
 >
->One Time Billing:
+>**One Time Billing:**
+>
 >If you choose the One Time billing option, the service will remain active until the end of the purchased support hours package.
 >
->Recurring Billing:
+>**Recurring Billing:**
+>
 >If you choose the Recurring billing option, the support hours will be calculated on a monthly cycle basis.
 
 ### Add new product to WHMCS
