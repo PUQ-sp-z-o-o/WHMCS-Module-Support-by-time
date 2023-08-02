@@ -1,5 +1,15 @@
 # Changelog
 
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
+
+### v1.2 Released 02-08-2023
+ 
+1. Added the possibility of one-time support packages with a limit of hours
+2. The display of time in the client and admin zones is displayed in a human-readable format
+3. Other display and logic improvements
+
+- - - - - -
+
 ### v1.1 Released 21-03-2023
 
 1. Changes in design in the client area.
