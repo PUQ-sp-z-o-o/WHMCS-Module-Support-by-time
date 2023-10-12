@@ -5,7 +5,7 @@
 ### v1.2.5 Released 11-10-2023
 
 1. Supported WHMCS v8.8.0
-2. Translations added/updated (Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)
+2. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
 
 - - - - - -
 
