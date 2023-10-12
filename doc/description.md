@@ -27,6 +27,7 @@ The mechanism was designed to make the most of the built-in mechanisms available
 - At the beginning of each month, the module calculates all hours of technical support for the previous month, taking into account package hours, then adds the necessary item to the client's Billable Items, which will be added to the invoice and sent to the client for payment by WHMCS system. This feature is designed so that you can make the most of the built-in WHMCS functionality.
 - In the client area, the client has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
 - In the administered zone, the operator has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
+- Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
 
 ![image](https://user-images.githubusercontent.com/81689153/226853982-c3062f56-e894-4382-9806-d016b2c2b88a.png)
 
