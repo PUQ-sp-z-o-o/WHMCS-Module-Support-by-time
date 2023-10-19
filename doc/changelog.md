@@ -2,6 +2,13 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3 Released 19-10-2023
+ 
+1. Added the ability to delete reserved time positions in the admin panel.
+2. Changed check of one-time packages, from daily cron to every cron, to change to terminator state.
+
+- - - - - -
+
 ### v1.2.5 Released 11-10-2023
 
 1. Supported WHMCS v8.8.0
