@@ -6,7 +6,9 @@ The module also supports the settlement of overtime over a defined package with 
 Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.
 # Description
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
+## Support by time **[WHMCS](https://puqcloud.com/link.php?id=77)**
+
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Preface
 

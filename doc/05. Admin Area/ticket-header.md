@@ -1,6 +1,8 @@
 # Ticket header
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
+## Support by time **[WHMCS](https://puqcloud.com/link.php?id=77)**
+
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Screenshot with additional options in the ticket header
 
