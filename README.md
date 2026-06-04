@@ -1,52 +1,83 @@
-# WHMCS-Module-Support-by-time
-The module allows you to charge your customers with subscription fees for the support provided to them.
-The module allows you to prepare multiple packages with the number of hours and prices, and then settle the time spent on customer requests. Thanks to it You will know how long it takes to help each of your clients and you will be able to charge for the time you spend. You can do it in several ways - by setting up permanent subscriptions, where the module itself counts the amount of time still available to use or from the very beginning monitor the hours devoted to the execution of the application.
-The module also supports the settlement of overtime over a defined package with a separate hourly rate.
-
-Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.
 # Description
 
-## Support by time **[WHMCS](https://puqcloud.com/link.php?id=77)**
+### Support by Time module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+#####  [Order now](https://puqcloud.com/whmcs-module-support-by-time.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [Community](https://community.puqcloud.com/)
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-support-by-time) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Support-by-time/) | [FAQ](https://faq.puqcloud.com/)
+## Support by Time WHMCS module
 
-### Preface
+The **Support by Time WHMCS module** turns your WHMCS into a fully automated platform for selling paid technical support measured in hours. It lets you sell a recurring support plan that includes a fixed amount of hours per month, with an automatically calculated hourly rate for time used outside the package — or a one-time bucket of hours that the service consumes until it auto-terminates.
 
-### This module allows you to create a paid support service.
+Operators log time directly from the ticket page — manually or with a built-in start/stop timer — the module aggregates totals per ticket, per service and per month, keeps a full audit trail of who logged what, and WHMCS billable items are created automatically by the daily cron.
 
-The module allows you to charge your customers with subscription fees for the support provided to them.  
-The module allows you to prepare multiple packages with the number of hours and prices, and then settle the time spent on customer requests. Thanks to it You will know how long it takes to help each of your clients and you will be able to charge for the time you spend. You can do it in several ways - by setting up permanent subscriptions, where the module itself counts the amount of time still available to use or from the very beginning monitor the hours devoted to the execution of the application.  
-The module also supports the settlement of overtime over a defined package with a separate hourly rate.
+---
 
->Our module does not have an automatic time counter - the time consumption is entered manually by the technical operator when updating the ticket. This is the result of a well-thought-out decision and many years of our experience, and not a lack of technical capabilities.
+## Main features
 
-The mechanism was designed to make the most of the built-in mechanisms available in WHMCS and uses the Billable Items function.
+- **Hour packages** — configurable number of support hours included per month per product
+- **Overtime billing** — per-currency hourly rate charged for hours used outside the package
+- **Two billing modes** — recurring (monthly reset) or One Time (fixed bucket of hours, auto-terminate when depleted)
+- **Time granularity** — time tracked and entered in HH:MM (minute precision)
+- **Manual time entry** — operators log spent time directly when responding to a ticket
+- **Live timer** — start/stop a server-anchored timer on the ticket; a floating widget shows all running timers on every admin page
+- **Multi-entry per ticket** — every save (or timer stop) is recorded as its own entry, so "10 min triage + 30 min fix" is preserved as two lines with individual notes and operators
+- **Notes & operator tracking** — each entry stores an optional note and the WHMCS admin who logged it
+- **Audit trail** — append-only log of every action (time logged, edited, deleted, timer start/stop/cancel, service ordered, ticket billed) shown on the ticket and on the service page
+- **Operator report** — per-operator hours and entry counts for the current and previous month
+- **Two save actions** — save time without closing the ticket, or close the ticket and save time
+- **Quick service ordering** — when a client without an active support service opens a ticket, the operator can order one straight from the ticket page
+- **Ticket protection** — once a ticket has been billed, its time entries are locked against edit/delete/reopen
+- **Past-month tickets** — tickets logged in earlier months are flagged as already charged and require splitting/re-creating
+- **Automatic monthly billing** — daily cron creates one WHMCS billable item per ticket for the previous month's overage hours
+- **Configurable invoice action** — choose between *Invoice on next cron*, *Add to user's next invoice* or *Do not invoice*
+- **Usage notifications** — email the client when monthly usage crosses configurable thresholds (e.g. 80%, 100%)
+- **Client transparency** — card-based client area with a usage progress bar, an interactive cost calculator and a 12-month usage chart; an optional toggle reveals the operator note + name per ticket
+- **Multi-currency** — separate hourly rate per WHMCS-configured currency
+- **Multi-language** — 25 languages
+- **License verification** — built-in license system with online/offline verification and admin alerts
 
->The module does not require any additional services, servers apart from the basic installation of the WHMCS system
+---
 
-### Functions:
+## System requirements & compatibility
 
-- Support package hour's configuration (these hours are included in the price of the product and do not roll over to the next month).
-- Possibility to configure the cost per hour of service after the hour packages are exhausted.
-- Prices are configurable for all currencies that are available in your WHMCS installation.
-- During the processing of tickets, the operator has the opportunity to add the number of hours that he spent on the implementation of this ticket. Gradation is 0.25 hours (15 minutes steps).
-- It is possible to omit the use of time monitoring for some tickets and work with them in the standard way.
-- It is possible to add a technical support product to the client, if it does not exist, directly from the ticket update window. This is done from the side of handling the request by the technical support operator. Thanks to this, you do not have to set the service for each client separately, but decide on a specific case.
-- At the beginning of each month, the module calculates all hours of technical support for the previous month, taking into account package hours, then adds the necessary item to the client's Billable Items, which will be added to the invoice and sent to the client for payment by WHMCS system. This feature is designed so that you can make the most of the built-in WHMCS functionality.
-- In the client area, the client has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
-- In the administered zone, the operator has a complete history of all technical tickets with the time of their service. Also, all the data on the use of hours of technical support.
-- Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+The module supports **PHP 7.4, 8.1 and 8.2+**, shipped as a separate ionCube build per PHP version. Download the build that matches the PHP version your WHMCS runs on.
 
-![image](https://user-images.githubusercontent.com/81689153/226853982-c3062f56-e894-4382-9806-d016b2c2b88a.png)
+| WHMCS version | PHP version | Module build |
+|---------------|-------------|--------------|
+| WHMCS 8.x | 7.4 | `php74` |
+| WHMCS 8.x | 8.1 | `php81` |
+| WHMCS 8.x | 8.2 | `php82` |
+| WHMCS 9.x | 8.2 | `php82` |
 
-![image](https://user-images.githubusercontent.com/81689153/226854024-2625f077-8d12-47ba-b4d9-6c62fab9fbf6.png)
+- **WHMCS 8** → PHP 7.4 / 8.1 / 8.2 (use the matching build).
+- **WHMCS 9** → PHP 8.2 (use the `php82` build).
+- **PHP 8.2 and newer** (8.3, 8.4, …) → always use the `php82` build.
+- **ionCube Loader** v13 or newer (v14, v15) required.
 
-![image](https://user-images.githubusercontent.com/81689153/226854058-97bb5fc3-afce-4dee-8a85-4c2e2f476233.png)
+---
 
-![image](https://user-images.githubusercontent.com/81689153/226854091-dd680476-1294-447e-9a8c-881bf64a5889.png)
+## Links
 
-![image](https://user-images.githubusercontent.com/81689153/226854152-943ccc1d-fbc9-4970-83c0-579582552ee2.png)
+- **Product page:** [https://puqcloud.com/whmcs-module-support-by-time.php](https://puqcloud.com/whmcs-module-support-by-time.php)
+- **Documentation:** [https://doc.puq.info/books/support-by-time-whmcs-module](https://doc.puq.info/books/support-by-time-whmcs-module)
+- **Support:** [https://puqcloud.com/submitticket.php?step=2&deptid=1](https://puqcloud.com/submitticket.php?step=2&deptid=1)
+- **Community:** [https://community.puqcloud.com/](https://community.puqcloud.com/)
 
-![image](https://user-images.githubusercontent.com/81689153/226854194-283fa61c-9ad6-4560-a6e1-38c01052e760.png)
+---
 
-![image](https://user-images.githubusercontent.com/81689153/226854223-276112c1-5e37-47d0-a9ab-315d139f9da0.png)
+## Screenshots
+
+### Client area — home screen
+
+![Client area home screen](img/09-client-home.png)
+
+### Client area — usage history
+
+![Client area history and usage chart](img/11-client-history.png)
+
+### Admin area — service page
+
+![Admin area service page](img/12-admin-product-page.png)
+
+### Admin area — ticket time form
+
+![Ticket time-logging form](img/15-ticket-time-form.png)
